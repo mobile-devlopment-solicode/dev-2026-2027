@@ -1,0 +1,4 @@
+Nom,Signification,Type,Format,Taille,Obligatoire,Calculée
+id_article,identifiant unique de l'id_article,entier,numérique,11,oui,non
+titre,titre de l'article,text,text,255,oui,non
+contenu,contenu complet de l'article, text, text,-,oui,non
